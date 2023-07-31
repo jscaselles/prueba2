@@ -5,10 +5,28 @@
     height: 250px;
     width: 250px;
     border-radius: 5px;
+    image-orientation: unset;
+    image-rendering: pixelated;
 }
 .parrafos{
     color: aqua;
 }
 .contente{
     color: black;
+}
+.centrar{
+    size: 100px;
+    color: brown;
+    text-align: center;
+}
+div{
+    position: absolute;
+    width: 50%;
+}
+.container{
+    position: absolute;
+    background-color: pink;
+}
+body{
+    background-color: pink;
 }
