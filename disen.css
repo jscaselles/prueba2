@@ -1,3 +1,9 @@
+html{
+    scroll-behavior: smooth;
+}
+table,tr,td{
+    border: 1px solid;
+}
 .p{
     background-color: aqua;
 }
